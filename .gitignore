@@ -2,7 +2,7 @@
 
 #config
 /server/config/dev.js
-/server/python/google_key.json
+/server/python/oogle_key.json
 # dependencies
 /node_modules
 /.pnp
